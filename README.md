@@ -38,6 +38,7 @@ Die Skripte sind Arbeitsskripte einer Analyse-Session: flach im Verzeichnis, lad
 | `scribe.py`, `twins.py`, `variants.py` | Schreiberhände, Fast-Zwillinge, Kopiervarianten |
 | `slot.py` | Ordnungsvarianten desselben Glypheninventars (Slot-Grammatik-Test) |
 | `shift.py` | Test „fortlaufende Verschiebung pro Wort" (Abstandsprofil, Periodensuche) |
+| `dialekt.py` | Mittelhochdeutsch (Nibelungenlied B), Frühneuhochdeutsch (Wittenwiler 1410, Ackermann 1401) gegen Voynich; Texte per `fetch_data.sh` |
 | `combo.py`, `combo2.py`, `combo3.py`, `combo4.py` | Kombinierte Epochen-Chiffren: Abkürzung + Homophone + Nullen + Funktionswort-Verschmelzung; Nomenklator mit Voynich-Codewörtern + Abschrift + Autokey-Regel |
 | `zod.py` | Tierkreis-Beschriftungen |
 | `alch98.py`, `uvmstat.py` | Alchemistische Kräuterbücher (98 Kapitelnamen), UVM MS 2 Formelstatistik |

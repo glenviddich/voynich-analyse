@@ -12,3 +12,6 @@ mkdir -p nib && for i in $(seq -w 1 39); do curl -sS -m 60 "$B/12Jh/Nibelungen/n
 for f in wit_rinp wit_rin1 wit_rin2 wit_rin3; do curl -sS -m 60 "$B/15Jh/Wittenwiler/$f.html" -o $f.html; done
 curl -sS -m 60 "$B/15Jh/Tepl/tep_tod.html" -o tep_tod.html
 echo "HTML geladen; Textextraktion siehe dialekt.py-Kommentar (Tags entfernen, Zeilennummern und Spaltenmarker 'I' streichen)."
+# Rezeptgattungen (OCR, archive.org): Antidotarium Nicolai 1471 und Tesoro de' poveri 1494
+curl -sSL -o ant1471.txt "https://archive.org/download/McGillLibrary-osl_antidotarium_WZ230N6397a1471-19972/osl_antidotarium_WZ230N6397a1471_djvu.txt"
+curl -sSL -o tesoro.txt "https://archive.org/download/ita-bnc-in1-00000270-001/ita-bnc-in1-00000270-001_djvu.txt"

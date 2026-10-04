@@ -41,6 +41,7 @@ Die Skripte sind Arbeitsskripte einer Analyse-Session: flach im Verzeichnis, lad
 | `dialekt.py` | Mittelhochdeutsch (Nibelungenlied B), Frühneuhochdeutsch (Wittenwiler 1410, Ackermann 1401) gegen Voynich; Texte per `fetch_data.sh` |
 | `combo.py`, `combo2.py`, `combo3.py`, `combo4.py` | Kombinierte Epochen-Chiffren: Abkürzung + Homophone + Nullen + Funktionswort-Verschmelzung; Nomenklator mit Voynich-Codewörtern + Abschrift + Autokey-Regel |
 | `zod.py` | Tierkreis-Beschriftungen |
+| `sterne_cmp.py` | Sternenteil (285 Absätze) gegen Antidotarium Nicolai 1471 und Tesoro de' poveri 1494 (OCR per `fetch_data.sh`) |
 | `alch98.py`, `uvmstat.py` | Alchemistische Kräuterbücher (98 Kapitelnamen), UVM MS 2 Formelstatistik |
 | `rohonc_cmp.py`, `rohonc2.py` | Vergleich Rohonc-Codex (braucht `kt/`, nicht enthalten; `ktfetch.sh` lädt über die API von rechnitzer-kodex.hu) |
 | `loeffel.py`, `steno.py`, `leet.py`, `zahlen.py`, `llull.py`, `grille.py`, `lazy.py`, `codebook.py`, `selfcite*.py`, `agglut.py`, `viet.py`, `pinyin_test.py`, `sukhotin.py` | Einzelne Hypothesentests |

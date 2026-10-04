@@ -1,0 +1,6 @@
+Vorregistrierung Replikation chol<->Wurzel, 2026-10-04 21:45 Europe/Berlin
+Seiten (Kräuterseiten ohne bisherige Bewertung, mit verfügbarem Scan): f65v f66r f66v f87r f87v f90r1 f90v1 f93r f93v f94r f94v f95r1 f95r2 f95v1 f95v2 f96r f96v (17)
+Nicht verfügbar im Scan-Satz: f90r2, f90v2 (verdeckte Falttafeln); f65r hat keinen Text.
+Hypothese (einseitig): Rate der Familie chol/chor/shol/shor (norm wie imgcorr.py) pro 100 Wörter ist auf Seiten mit Wurzel_betont=1 niedriger als auf Seiten mit Wurzel_betont=0.
+Test: Differenz der mittleren Raten, Permutation der Wurzel-Labels (10000), p einseitig. Keine weiteren Familien, keine Korrektur nötig.
+Bewertung: Bildkriterien wie in voynich_bildmerkmale_blind.md, vor Berechnung der Textraten festgelegt.

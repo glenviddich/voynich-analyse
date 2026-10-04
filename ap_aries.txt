@@ -1,0 +1,31 @@
+# Astrolabium Planum (Angelus, Augsburg 1488), BSB bsb00026866, Bl. 45r-48v. Widder, Grad 1-30. Format: Grad|Figur|Prognose
+1|Vir dextera tenens falcem et sinistra manu balistam|Homo aliquando laborat aliquando vero bella exercet
+2|Homo cum capite canino dextera sua extensa et in sinistra baculum habentem|Homo litigiosus erit et invidus ut canis
+3|Homo dextera manu ostendens varia mundi et sinistra applicata cingulo|Homo erit pacem diligens
+4|Homo crispus capillis dextera manu tenens accipitrem et sinistra flagellum|Raro ditatur ea que accumulaverit senex consumet
+5|Homines duo unus bipenni secans ligna alter vero sceptrum in dextra manu tenens|Paterfamilias appellabitur
+6|Rex coronatus pomum in dextera et ceptrum in sinistra manu tenens|Omnes consanguineos et vicinos suos transcendet
+7|Homo totus armatus dextera manu sagittam tenens|Homo erit se custodiens
+8|Homo capite tectus galea et alias non armatus dextera manu tenens balistam|Homo litigiosus erit et occisor
+9|Homo nudus capite alias bene vestitus sinistra manu tenens gladium|Homo verbosus erit et semper miratur
+10|Homo nudus capite alias vestitus transfigens ursum unum cuspide|Venator erit
+11|Mulier stans in dextera manu tenens colum|Homo hospitalis erit
+12|Aquila expansis alis volitans supra pullos suos inferius sedentes|Homo erit cupiens exaltari
+13|Homo subtilis manu sua dextera tenens hircum cum cornibus|Homo valde mirabilis erit
+14|Homo stans erectus captus utraque manu cathena una|Homo iste sepius incarceratus erit
+15|Homo nudus capite extensis brachiis et indutus lorica|Fur erit et nequam
+16|Homo laborans cum ligone alias homo aquam fundens ex urceolo|Homo prendens pisces aut laborator erit
+17|Homo ociosus stans erectus serico indutus|Homo delicatus erit
+18|Mulier in tribunali sedens elevata manu dextera|Homo pacem erit diligens
+19|Homo stans lorica indutus manibus suis thesaurum ostendens pecuniarum|Fur erit et nequam
+20|Homo coopertus capite galea cum penna strucii thaurum equitans et a sinistris equum ducens|Homo maliciosus erit
+21|Canis sedens faciem suam vertens ad leonem sedentem|Fidelis erit socius
+22|Ursus sedens trabem habens magnum in ore suo|Malus erit homo
+23|Serpentes tres contra alios tres pugnantes|Homo plures habebit inimicos
+24|Mulier nuda tegens pudibunda perisamate dextera manu extendente|Mulier erit optans virum aut vir mulierem
+25|Homo crispos habens capillos et arietem equitans cornutum|Cives erit volens cito dominari
+26|Sol contra solem splendens|Homo erit principatum tenens
+27|Draco magnus in terra iacens|Homo potens erit in senectute
+28|Mulier stans erecta bene vestita|Homo hilaris erit ac pacificus
+29|Homo serram tenens manibus suis|Homo erit labore se nutriens et uxorem
+30|Mulier austera equum ducens sellatum in dextera manu|Homo dominari volens alteri

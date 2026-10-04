@@ -1,0 +1,31 @@
+# Astrolabium Planum (Angelus, Augsburg 1488), BSB bsb00026866, Bl. 89r-92v. Fische, Grad 1-30. Format: Grad|Figur|Prognose
+1|Duo viri unum caput habentes|Homo litigiosus erit et instabilis
+2|Vir in terra sedens|Rusticus erit
+3|Vir cuneum comedens|Pistor erit
+4|Unicornus supine iacens in terra|Homo sine potestate erit
+5|Due virgines mutuo stantes|Homo iocundus erit
+6|Avis magna stans et comedens|Homo avarus erit
+7|Vir manu nolam tenens|Custos ecclesie erit
+8|Vir in tina sedens perisama habens in manu|Balneator erit
+9|Vir peregrinatum ambulans|Homo religiosus erit
+10|Vir laborans in mortario|Homo laboriosus erit
+11|Vir incedens cum baculo|Homo vagus erit
+12|Iuvenis bene ornatus retro respiciens|Homo ociosus erit
+13|Vir et mulier in equis spaciantes|Homo ociosus erit
+14|Vir ligna secans in silva|Homo laborator erit
+15|Vir cultrum habens evaginatum|Homo ad litem se parans
+16|Homo avem deferens in manu sive gallum|Homo nobilis erit
+17|Homo in aquam se mergens|Homo sine sensu
+18|Duo equestri mutuo bellantes|Homo litigiosus erit
+19|Vir gladio se transfodiens|Homo causa erit sue mortis
+20|Luna in nocte lucens|Homo instabilis erit
+21|Unus alterum gladio transfigens|Homicida erit
+22|Mulier veste lacerata induta|Homo impudicus erit
+23|Mulier in navi navigans|Homo instabilis erit
+24|Vir et mulier iacentes in lecto|Homo lascivus erit
+25|Vir lapidem proiciens funda|Homo litigiosus erit
+26|Mulier viro caput amputat securi in somnis|Homicida erit
+27|Vir nudus urinam suam proiciens|Homo impudicus erit
+28|Vir prope equum ambulans tenens manu una avem et altera serpentem|Homo mirabilis erit sensuum
+29|Piscis magnus sine aquis|Homo instabilis erit
+30|Mulier se in speculo cernens|Homo superbus erit et incastus

@@ -1,0 +1,37 @@
+# Transliterationen (voynich.nu) und Klartextkorpora: per fetch_data.sh laden
+ZL.txt
+ZL3b-n.txt
+IT*.txt
+GC*.txt
+la.txt
+it.txt
+de.txt
+cs.txt
+fi.txt
+hu.txt
+zh.txt
+ap.txt
+culp.txt
+vi_raw.txt
+en_epiktet.txt
+g*.txt
+l*.txt
+# Rohonc-Transkription (rechnitzer-kodex.hu): nicht weiterverbreiten
+kt/
+kt_*.json
+rohonc/
+# Bilder und PDFs
+th/
+ph/
+big/
+bod/
+uvm/
+ap/
+cap/
+*.jpg
+*.png
+*.pdf
+# Laufzeit
+__pycache__/
+log_*.txt
+take/
